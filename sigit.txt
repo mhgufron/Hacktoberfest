@@ -1,1 +1,1 @@
-data
+facebook = sigit wasis subekti
