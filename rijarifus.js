@@ -1,0 +1,2 @@
+import Dia from 'OrangTuaDia'
+
